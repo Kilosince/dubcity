@@ -1,0 +1,93 @@
+.socialIcon {
+ margin-left: 50%;
+ margin-top: 2%;
+  margin-bottom: 5%;
+}
+
+.bigIdea {
+  margin-left: 20%;
+  max-width: 61%;
+  max-height: 61%;
+}
+
+@media only screen and (min-width: 360px){
+
+
+
+  .socialIcon {
+   margin-left: 47%;
+   margin-top: 2%;
+    margin-bottom: 5%;
+  }
+
+
+}
+
+@media only screen and (min-width: 412px){
+
+  .socialIcon {
+   margin-left: 47%;
+   margin-top: 2%;
+    margin-bottom: 5%;
+  }
+
+
+}
+
+@media only screen and (min-width: 540px){
+
+  .socialIcon {
+   margin-left: 48%;
+   margin-top: 2%;
+    margin-bottom: 5%;
+  }
+
+
+}
+
+@media only screen and (min-width: 768px){
+
+  .socialIcon {
+   margin-left: 49%;
+   margin-top: 2%;
+    margin-bottom: 5%;
+  }
+
+
+}
+
+
+@media only screen and (min-width: 912px){
+
+  .socialIcon {
+   margin-left: 49%;
+   margin-top: 2%;
+    margin-bottom: 5%;
+  }
+
+
+}
+
+@media only screen and (min-width: 1024px){
+
+  .socialIcon {
+   margin-left: 50%;
+   margin-top: 2%;
+    margin-bottom: 5%;
+  }
+
+
+}
+
+@media only screen and (min-width: 1280px){
+
+
+
+  .socialIcon {
+   margin-left: 50%;
+   margin-top: 2%;
+    margin-bottom: 5%;
+  }
+
+
+}
